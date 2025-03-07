@@ -60,7 +60,7 @@ const SuccessStories = () => {
                                 </div>
                                 <div className="counter-box wow fadeInUp" data-wow-delay=".7s">
                                     <h2>
-                                        <span className="count">98</span>M+
+                                        <span className="count">200</span>+
                                     </h2>
                                     <div className="content">
                                         <h4>Client Satisfaction</h4>
