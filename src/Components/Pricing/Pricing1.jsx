@@ -54,7 +54,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                     <PricingCard
                                         addclass="pricing-box-items"
-                                        title="Starter Elevate Plan"
+                                        title="Starter Elevate"
                                         price="$499"
                                         month="Month"
                                         FeatureList={[
@@ -77,7 +77,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                                     <PricingCard
                                         addclass="pricing-box-items style-2"
-                                        title="Growth Boost Plan"
+                                        title="Growth Boost"
                                         price="$1499"
                                         month="Month"
                                         FeatureList={[
@@ -100,7 +100,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                     <PricingCard
                                         addclass="pricing-box-items"
-                                        title="Elite Dominate Plan"
+                                        title="Elite Dominate"
                                         price="$1999"
                                         month="Month"
                                         FeatureList={[
@@ -125,7 +125,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                                     <PricingCard
                                         addclass="pricing-box-items style-2"
-                                        title="Ultimate Custom Plan "
+                                        title="Ultimate Custom "
                                         price="Custom"
                                         month="Month"
                                         FeatureList={[
@@ -152,7 +152,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                     <PricingCard
                                         addclass="pricing-box-items"
-                                        title="Starter Elevate Plan"
+                                        title="Starter Elevate"
                                         price="$1999"
                                         month="Year"
                                         FeatureList={[
@@ -175,7 +175,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                     <PricingCard
                                         addclass="pricing-box-items style-2"
-                                        title="Growth Boost Plan"
+                                        title="Growth Boost "
                                         price="$2299"
                                         month="Year"
                                         FeatureList={[
@@ -198,7 +198,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                     <PricingCard
                                         addclass="pricing-box-items"
-                                        title="Elite Dominate Plan"
+                                        title="Elite Dominate "
                                         price="$2999"
                                         month="Year"
                                         FeatureList={[
@@ -223,7 +223,7 @@ const Pricing1 = ({CoulmnClass}) => {
                                     <div className="col-xl-6 col-lg-6 col-md-6">
                                     <PricingCard
                                         addclass="pricing-box-items style-2"
-                                        title="Ultimate Custom Plan"
+                                        title="Ultimate Custom "
                                         price="Custom"
                                         month="Year"
                                         FeatureList={[
