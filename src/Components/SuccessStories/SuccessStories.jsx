@@ -51,11 +51,11 @@ const SuccessStories = () => {
                             <div className="counter-box-area">
                                 <div className="counter-box wow fadeInUp" data-wow-delay=".5s">
                                     <h2>
-                                        <span className="count">500</span>+
+                                        <span className="count">200</span>+
                                     </h2>
                                     <div className="content">
                                         <h4>Projects Delivered</h4>
-                                        <p>We have successfully developed and launched 500+ high-performing websites. </p>
+                                        <p>We have successfully developed and launched 200+ high-performing websites. </p>
                                     </div>
                                 </div>
                                 <div className="counter-box wow fadeInUp" data-wow-delay=".7s">
